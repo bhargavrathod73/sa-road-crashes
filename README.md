@@ -48,7 +48,7 @@ Each year uses the same layout:
 - **Bing Map** with incident bubbles showing geographic clustering of crashes across SA
 
 Everything cross-filters. Click a crash type, a slice of the area chart, or a peak on the monthly line — the rest of the dashboard updates to match.
-https://github.com/bhargavrathod73/sa-road-crashes/blob/main/2022_SA_Roadcrash_Dashboard_Screenshot.jpeg
+
 ---
 
 ## Data Source
