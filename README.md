@@ -43,5 +43,5 @@ This dashboard is meant to be explored, but I've made it accessible even if you 
     4. **Click anything!** You can click on a specific crash type icon, a slice of the area donut, or a peak on the month chart, and the *entire* report will cross-filter.
 
 *   **Option 2: Quick View (No software needed)**
-    *   If you just want a quick look at the design and data highlights, check out the attached **screenshot images** and **PDF exports** included right here in the repository. They give you a high-res look at the pages without needing to install anything.
+    *   If you just want a quick look at the design and data highlights, check out the attached **screenshot images** included right here in the repository. They give you a high-res look at the pages without needing to install anything.
 ```
