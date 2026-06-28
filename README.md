@@ -11,7 +11,7 @@ I built this because I wanted to go beyond the yearly road toll headlines and ac
 The dashboard lets you cut across five years of data and find answers to those questions yourself.
 
 ---
-https://github.com/bhargavrathod73/sa-road-crashes/blob/main/2020_SA_Roadcrash_Dashboard_Screenshot.png
+
 
 ## What the Data Shows
 
