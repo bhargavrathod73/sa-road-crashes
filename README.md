@@ -107,7 +107,7 @@ The YoY measure is what drives the red percentage figures under each KPI card. W
 
 ### Option 2 — Screenshots only (no software needed)
 
-All five years are included as screenshots in the `/screenshots` folder. They won't be interactive but give you a clear view of the layout and data.
+All five years are included as screenshots in the folder. They won't be interactive but give you a clear view of the layout and data.
 
 ---
 
