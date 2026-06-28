@@ -37,7 +37,7 @@ I focused on visualizing a few critical areas. If you open the dashboard, you’
 This dashboard is meant to be explored, but I've made it accessible even if you don't use Power BI.
 
 *   **Option 1: Dig into the interactive file (Recommended)**
-    1. Clone this repository to get the `.pbix` file.
+    1. Clone this repository to get the `.pbit` file.
     2. Open the file in **Power BI Desktop**.
     3. Use the **'Select Year' slicer** in the top-right corner to focus on a specific year.
     4. **Click anything!** You can click on a specific crash type icon, a slice of the area donut, or a peak on the month chart, and the *entire* report will cross-filter.
