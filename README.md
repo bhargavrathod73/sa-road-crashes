@@ -11,12 +11,6 @@ It's one thing to see headlines about accidents, but putting all the data into o
 
 ---
 
-### 📊 A Look at the Dashboard
-
-Here is a primary view of the dashboard, showing a snapshot of the metrics for 2024 (based on the current filter).
-
----
-
 ### 💡 Key Insights Captured
 
 I focused on visualizing a few critical areas. If you open the dashboard, you’ll find:
@@ -38,15 +32,16 @@ I focused on visualizing a few critical areas. If you open the dashboard, you’
 *   **Platform:** This was built entirely in **Power BI**. The layout was designed for high readability, prioritizing clear metrics and map interaction.
 *   **Data Source:** This uses data covering road crash statistics in South Australia (2020–2024).
 
-### 🚀 How to Use It
+### 🚀 How to Use It / View It
 
-This dashboard is meant to be explored. Almost everything is interconnected.
+This dashboard is meant to be explored, but I've made it accessible even if you don't use Power BI.
 
-1.  Clone this repository to get the `.pbix` file.
-2.  Open the file in **Power BI Desktop**.
-3.  Use the **'Select Year' slicer** in the top-right corner to focus on a specific year (currently showing 2024).
-4.  **Click anything!** You can click on a specific crash type icon, a slice of the area donut, or a peak on the month chart, and the *entire* report, including the KPI numbers and the map, will cross-filter to show just that subset of data. This is where the real exploration happens.
+*   **Option 1: Dig into the interactive file (Recommended)**
+    1. Clone this repository to get the `.pbix` file.
+    2. Open the file in **Power BI Desktop**.
+    3. Use the **'Select Year' slicer** in the top-right corner to focus on a specific year.
+    4. **Click anything!** You can click on a specific crash type icon, a slice of the area donut, or a peak on the month chart, and the *entire* report will cross-filter.
 
-***
-
+*   **Option 2: Quick View (No software needed)**
+    *   If you just want a quick look at the design and data highlights, check out the attached **screenshot images** and **PDF exports** included right here in the repository. They give you a high-res look at the pages without needing to install anything.
 ```
