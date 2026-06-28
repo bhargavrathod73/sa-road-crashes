@@ -48,24 +48,7 @@ Each year uses the same layout:
 - **Bing Map** with incident bubbles showing geographic clustering of crashes across SA
 
 Everything cross-filters. Click a crash type, a slice of the area chart, or a peak on the monthly line — the rest of the dashboard updates to match.
-
----
-
-## Files in This Repo
-
-```
-├── SA_RoadSafety_Dashboard.pbit     # Power BI template file
-├── screenshots/
-│   ├── 2020_Dashboard.png
-│   ├── 2021_Dashboard.png
-│   ├── 2022_Dashboard.png
-│   ├── 2023_Dashboard.png
-│   └── 2024_Dashboard.png
-└── README.md
-```
-
-The raw data is not included because it's publicly available and updated directly from the source (see below). The `.pbit` template will prompt you to point to your own copy of the data when you first open it.
-
+https://github.com/bhargavrathod73/sa-road-crashes/blob/main/2022_SA_Roadcrash_Dashboard_Screenshot.jpeg
 ---
 
 ## Data Source
@@ -132,5 +115,4 @@ All five years are included as screenshots in the `/screenshots` folder. They wo
 
 - **Reported crashes only.** This dataset covers crashes reported to police. Minor incidents that weren't reported won't be in the numbers.
 - **2020 context.** COVID-19 significantly reduced traffic volumes in 2020, which likely explains the lower accident count relative to other years. The data doesn't include vehicle kilometres travelled, so direct rate comparisons aren't possible.
-- **Geocoding accuracy.** The Bing Map visual geocodes from address strings. A small number of records with incomplete or ambiguous addresses may not have plotted correctly.
 - **Metro vs. country fatality rates.** The dashboard shows raw casualty counts by area, not rates adjusted for traffic exposure. Country roads look safer by volume but are not when you account for how few vehicles use them.
